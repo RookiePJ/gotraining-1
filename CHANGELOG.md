@@ -1,0 +1,1 @@
+- [#3](https://github.com/gobridge/gotraining/issues/3): Refactor hello world example (@corylanou)
